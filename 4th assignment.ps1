@@ -13,8 +13,8 @@ This powershell script check registry looking for passwords stored in windows re
 
 
 .EXAMPLE
-PS C:\> . .\assignment4.ps1
-PS C:\> Get-Auto_Login_Credentila
+PS C:\> . .\4th assignment.ps1
+PS C:\> Get-Auto_Login_Credentilas 
 
 .LINK
 https://www.experts-exchange.com/questions/21011841/Automated-logons.html
